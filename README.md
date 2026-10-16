@@ -5,7 +5,9 @@ A free day-trading journal spreadsheet. Log one round-trip trade per row and it 
 ![TapeLog Lite](cover-3-lite-free.png)
 
 ## Download
+- Direct page: https://markjspivey-xwisee.github.io/tapelog-free-trading-journal/
 - [`TapeLog-LITE-free.xlsx`](TapeLog-LITE-free.xlsx). Google Sheets: Drive → New → File upload → Open with Google Sheets.
+- Or on Gumroad (pay what you want): https://markjspivey.gumroad.com/l/welus
 
 ## Sample broker exports
 `sample-exports/` holds fictional example files in the **DAS Trader Pro Trades window** and **Robinhood Account activity** CSV formats, for testing your own parser or the full TapeLog importer.
