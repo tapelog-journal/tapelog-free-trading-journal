@@ -19,6 +19,17 @@ A free day-trading journal spreadsheet. Log one round-trip trade per row and it 
 
 Step-by-step guide: https://tapelog-journal.github.io/tapelog/guides/how-to-calculate-win-rate-profit-factor-from-das-trader/
 
+## Free trading calculators (in your browser)
+- [Position size calculator](https://tapelog-journal.github.io/tapelog/tools/position-size-calculator/)
+- [Risk/reward & R-multiple calculator](https://tapelog-journal.github.io/tapelog/tools/risk-reward-calculator/)
+- [Profit factor & expectancy calculator](https://tapelog-journal.github.io/tapelog/tools/profit-factor-expectancy-calculator/)
+- [Breakeven win rate calculator](https://tapelog-journal.github.io/tapelog/tools/win-rate-breakeven-calculator/)
+- [Drawdown recovery calculator](https://tapelog-journal.github.io/tapelog/tools/drawdown-recovery-calculator/)
+- [PDT day trades left calculator](https://tapelog-journal.github.io/tapelog/tools/pdt-day-trade-calculator/)
+
+## Newsletter
+One trading-stats lesson a week, free: **[subscribe to The TapeLog](https://thetapelog.beehiiv.com/subscribe)**
+
 ## Full version
 [TapeLog Trading Journal ($24 one-time)](https://tapelog.gumroad.com/l/ewaacf) adds one-paste DAS Trader Pro / Robinhood import, R-multiples, max drawdown, equity curve, P&L by setup/hour/weekday/ticker, a PDT counter, and a Notion version. Website: https://tapelog-journal.github.io/tapelog/
 
