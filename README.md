@@ -7,7 +7,7 @@ A free day-trading journal spreadsheet. Log one round-trip trade per row and it 
 ## Download
 - Direct page: https://tapelog-journal.github.io/tapelog-free-trading-journal/
 - [`TapeLog-LITE-free.xlsx`](TapeLog-LITE-free.xlsx). Google Sheets: Drive → New → File upload → Open with Google Sheets.
-- Or on Gumroad (pay what you want): https://tapelog.gumroad.com/l/welus
+- Or on Gumroad (pay what you want): https://tapelog.gumroad.com/l/welus?utm_source=free_repo&utm_medium=referral&utm_campaign=owned
 
 ## Sample broker exports
 `sample-exports/` holds fictional example files in the **DAS Trader Pro Trades window** and **Robinhood Account activity** CSV formats, for testing your own parser or the full TapeLog importer.
@@ -28,10 +28,10 @@ Step-by-step guide: https://tapelog-journal.github.io/tapelog/guides/how-to-calc
 - [PDT day trades left calculator](https://tapelog-journal.github.io/tapelog/tools/pdt-day-trade-calculator/)
 
 ## Newsletter
-One trading-stats lesson a week, free: **[subscribe to The TapeLog](https://thetapelog.beehiiv.com/subscribe)**
+One trading-stats lesson a week, free: **[subscribe to The TapeLog](https://thetapelog.beehiiv.com/subscribe?utm_source=free_repo&utm_medium=referral&utm_campaign=owned)**
 
 ## Full version
-[TapeLog Trading Journal ($24 one-time)](https://tapelog.gumroad.com/l/ewaacf) adds one-paste DAS Trader Pro / Robinhood import, R-multiples, max drawdown, equity curve, P&L by setup/hour/weekday/ticker, a PDT counter, and a Notion version. Website: https://tapelog-journal.github.io/tapelog/
+[TapeLog Trading Journal ($24 one-time)](https://tapelog.gumroad.com/l/ewaacf?utm_source=free_repo&utm_medium=referral&utm_campaign=owned) adds one-paste DAS Trader Pro / Robinhood import, R-multiples, max drawdown, equity curve, P&L by setup/hour/weekday/ticker, a PDT counter, and a Notion version. Website: https://tapelog-journal.github.io/tapelog/
 
 ## Disclaimer
 Educational record-keeping tool, not financial advice. Sample data is fictional. Not affiliated with DAS Inc. or Robinhood Markets, Inc.
